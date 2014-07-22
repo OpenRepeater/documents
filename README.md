@@ -1,4 +1,4 @@
-Welcome to the RASPBERRY PI REPEATER CONTROLER Project.
+Welcome to the OpenRepeater Project.
 
 I am working to open source this project, so please WATCH this repository if your are interested. In the meantime, find out more information below.
 
