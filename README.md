@@ -1,3 +1,5 @@
+![alt tag](https://github.com/OpenRepeater/OpenRepeater/blob/master/Branding/OpenRepeater-Logo.jpg)
+
 Welcome to the OpenRepeater Project.
 =======
 
