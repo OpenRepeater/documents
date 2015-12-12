@@ -44,7 +44,7 @@ if($('#rxMode').val() == 'gpio') {
 });
 
 
-/*   ---Disabled because of firefox issues
+/*     ---Disabled because of firefox issues
 // RX GPIO Validation
 $("#rxGPIO").keypress(function(event) {
 	var text = event.charCode || event.keyCode;
