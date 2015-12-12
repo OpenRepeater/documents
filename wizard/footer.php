@@ -88,8 +88,6 @@
 	<script src="../includes/js/jquery.cleditor.min.js"></script>
 	<!-- notification plugin -->
 	<script src="../includes/js/jquery.noty.js"></script>
-	<!-- file manager library -->
-	<script src="../includes/js/jquery.elfinder.min.js"></script>
 	<!-- star rating plugin -->
 	<script src="../includes/js/jquery.raty.min.js"></script>
 	<!-- for iOS style toggle switch -->
