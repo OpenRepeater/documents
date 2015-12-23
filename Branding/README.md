@@ -1,4 +1,4 @@
-![alt tag](https://github.com/OpenRepeater/OpenRepeater/blob/master/Branding/OpenRepeater-Logo.jpg)
+![alt tag](https://github.com/OpenRepeater/documents/blob/master/Branding/OpenRepeater-Logo.jpg)
 
 Project Branding Guidelines
 =======
